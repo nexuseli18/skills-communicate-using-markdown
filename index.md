@@ -1,3 +1,3 @@
 # Added Header to Markdown
 
-<img src =https://octodex.github.com/images/yaktocat.png> Image of Yaktocat </img>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
